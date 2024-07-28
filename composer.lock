@@ -12,12 +12,13 @@
             "dist": {
                 "type": "path",
                 "url": "elframework",
-                "reference": "ca1fc5866dc3ad4ea1c8a7774e3d197c747ea348"
+                "reference": "311214643b6076f3906bbeb2770827d6a64f51d1"
             },
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Elframework\\": "framework/"
+                    "Elframework\\": "framework/",
+                    "Illluminates\\": "illluminates/"
                 }
             },
             "license": [
